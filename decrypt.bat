@@ -1,5 +1,4 @@
 @echo off
-cd dateien
 :encryption
 REN *.j9k1 *.pcx
 goto Bild
